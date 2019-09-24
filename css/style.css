@@ -8,3 +8,11 @@
 	padding: 40px;
 	font-style: 50px;
 }
+.menu{
+	color: aliceblue;
+	list-style: none;
+}
+.item{
+	background: 0%;
+	text-align: center;
+}
