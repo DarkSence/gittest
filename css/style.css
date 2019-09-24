@@ -1,5 +1,10 @@
 .item{
 	color: aqua;
 	text-align: center;
-	
+
+}
+.text{
+	margin: 20px;
+	padding: 40px;
+	font-style: 50px;
 }
